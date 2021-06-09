@@ -1,0 +1,13 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+
+.DS_Store
+.project
+.settings
+private
+build
+old
